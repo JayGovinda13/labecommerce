@@ -1,17 +1,22 @@
 {
   "name": "labecommerce",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Loja da Labenu",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/JayGovinda13/labecommerce.git"
   },
-  "keywords": [],
+  "keywords": [
+    "comercio",
+    "loja",
+    "tecnologia"
+  ],
   "author": "Juliano Amaral Costa",
   "license": "ISC",
   "bugs": {
