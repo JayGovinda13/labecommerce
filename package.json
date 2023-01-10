@@ -1,0 +1,21 @@
+{
+  "name": "labecommerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JayGovinda13/labecommerce.git"
+  },
+  "keywords": [],
+  "author": "Juliano Amaral Costa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JayGovinda13/labecommerce/issues"
+  },
+  "homepage": "https://github.com/JayGovinda13/labecommerce#readme"
+}
